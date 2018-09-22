@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragments Demo</string>
+    <string name="show_details">Show details</string>
+    <string name="version_name">Version Name</string>
+    <string name="version_number">Version Number</string>
+    <string name="picture">Picture</string>
+    <string name="details">Details</string>
+</resources>
